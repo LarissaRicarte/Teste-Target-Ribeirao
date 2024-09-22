@@ -26,4 +26,12 @@ Este foi um téste técnico para a empresa Target, realizado na linguagem Python
 
 5. Resposta:
 
-       Primeiro eu ligaria os interruptores A e B por 10 minutos, depois apagaria o A, deixaria o B ligado e ligaria o C. Assim, visitaria a sala 1 e a 2. A sala em que a lâmpada estivesse quente e apagada eu associaria ao interruptor A. Da mesma forma, a sala em que a lâmpada estivesse acesa e quente, eu associaria ao interruptor B. E a sala em que a lâmpada estivesse acesa e fria, eu associaria ao interruptor C. Por fim, a sala 3 seria associada ao interruptor que não foi associado a nenhuma das outras duas primeiras salas que visitei.
+        1. Primeiro eu ligaria os interruptores A e B por 10 minutos, depois apagaria o A, deixaria o B ligado e ligaria o C.
+    
+        2. Assim, visitaria a sala 1 e a 2. A sala em que a lâmpada estivesse quente e apagada eu associaria ao interruptor A.
+        
+        3. Da mesma forma, a sala em que a lâmpada estivesse acesa e quente, eu associaria ao interruptor B.
+        
+        4. E a sala em que a lâmpada estivesse acesa e fria, eu associaria ao interruptor C.
+        
+        5. Por fim, a sala 3 seria associada ao interruptor que não foi associado a nenhuma das outras duas primeiras salas que visitei.
